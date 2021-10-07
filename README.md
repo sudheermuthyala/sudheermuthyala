@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Learning New Things
 - 💬 Ask me about  Tech...!
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... !  I'M
+- 😄 Pronouns: ... !  I'm
 - ⚡ Fun fact: ... I Am a Boring Person in 21st centur😎
