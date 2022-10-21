@@ -1,6 +1,6 @@
 ### Hola, 👋 I'm @MuthyalaSudheer...!👋
 
-- 🔭 I’m currently working on `Terraform`
+- 🔭 I’m currently working with `Mphasis`
 - 🌱 I’m currently learning K8s
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with Learning New Things
